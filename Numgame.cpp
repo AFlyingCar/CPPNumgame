@@ -8,7 +8,6 @@ int main(){
 	int choice;
 	int mystnum;
 	int turn = 0;
-	int c = 0;
 
 	srand(time(NULL));
 	mystnum = (rand() % 100)+1;
